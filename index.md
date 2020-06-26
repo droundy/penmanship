@@ -32,6 +32,12 @@ The letter $c$ another easy one.  I don't know that I've ever seen it mistaken.
 
 The letter $d$ a common source of trouble.  The most common error I've seen is shown above.  If you draw your $d$ starting at the top like this (and in one stroke), it's almost impossible to distinguish between $d$ and a partial derivative symbol $\partial$.  Thus it becomes *essential* to learn to draw your $d$ correctly, since there are times where the distinction between these two symbols is essential.
 
+## $\partial$
+
+![partial derivative](partial.svg)
+
+The partial derivative $\partial$ is pretty new to many students, and not covered in elementary school.  It's not hard to draw, so long as your $d$ is not drawn in the way I warn about above.
+
 ## $1$
 
 ![number 1](1.svg)
