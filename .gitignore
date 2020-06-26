@@ -1,0 +1,17 @@
+*~
+bin
+.buildozer
+*.pyc
+build
+*.o
+.sconsign.dblite
+
+*.test
+*.log
+*.failed
+*~
+*.tum
+style.css
+*.map
+.sass-cache
+*.html
