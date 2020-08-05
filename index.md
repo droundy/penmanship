@@ -44,6 +44,12 @@ The letter $c$ another easy one.  I don't know that I've ever seen it mistaken.
 
 The letter $d$ a common source of trouble.  The most common error I've seen is shown above.  If you draw your $d$ starting at the top like this (and in one stroke), it's almost impossible to distinguish between $d$ and a partial derivative symbol $\partial$.  Thus it becomes *essential* to learn to draw your $d$ correctly, since there are times where the distinction between these two symbols is essential.
 
+## $\delta$
+
+![letter ddelta](delta.svg)
+
+The greek letter $\delta$ can also be tricky.  It looks a lot like a $\partial$, but has a little flag on the top (or a curve to the right).
+
 ## $\partial$
 
 ![partial derivative](partial.svg)
