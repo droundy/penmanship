@@ -20,6 +20,18 @@ The letter 'a' is actually pretty hard to get wrong.  About the only thing I've 
 
 The letter $b$ is pretty standard also.  The only mistake I'm aware of is shown on the right.  If you draw the "circle" portion of the $b$ in a counter-clockwise way, your $b$ could turn into a $6$.
 
+## $B$
+
+![letter B](B.svg)
+
+The main wrong way to write the letter $B$ can be mistaken as the number $13$.
+
+## $\beta$
+
+![letter beta](beta.svg)
+
+The greek letter $\beta$ can be a little tricky if you aren't used to it.  It looks a lot like a $B$.  The key is that you start at the bottom and draw it with one stroke.  Ideally you also want to start low down, but often that is not distinguishable when writing math.
+
 ## $c$
 
 ![letter c](c.svg)
@@ -44,34 +56,3 @@ The partial derivative $\partial$ is pretty new to many students, and not covere
 
 The number $1$ is pretty simple, but still manages to have a few common ways to do it wrong.  Most essentially, it can be tempting to put a little angle on the top of your ones.  I expect this comes from a misguided effort to distinguish $1$ from $\ell$.  Unfortunately, this results in a digit that can easily turn into a seven when written sloppily.
 
-## $\alpha$
-
-## $\beta$
-
-## $\gamma$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
-
-## $\alpha$
